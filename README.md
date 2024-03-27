@@ -1,5 +1,3 @@
-# meu-portfolio
- usando react pra construir um site de portfólio pessoal
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
