@@ -1,3 +1,8 @@
+header{
+    background-color: #160A10;
+}
+
+
 .navegacao {
     height: 112px;
     display: flex;
@@ -5,6 +10,8 @@
     align-items: center;
     column-gap: 3rem;
 }
+
+
 
 @media (max-width: 744px) {
     .navegacao {

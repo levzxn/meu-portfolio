@@ -1,0 +1,6 @@
+.lista_projetos{
+    display: flex;
+    gap: 2em;
+    flex-wrap: wrap;
+    padding: 3em;
+}

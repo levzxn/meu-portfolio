@@ -1,8 +1,14 @@
+import Banner from "../../Componentes/Banner"
+import SecaoProjetos from "../../Componentes/SecaoProjetos"
+
 const Inicio = () => {
     return(
         <>
-            <h1>ola</h1>
+        <Banner>
+        </Banner>
+        <SecaoProjetos></SecaoProjetos>
         </>
+
     )
 }
 
